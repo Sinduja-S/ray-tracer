@@ -1,7 +1,4 @@
-// This is the starter code for the CS 6491 Ray Tracing project.
-//
-// The most important part of this code is the interpreter, which will
-// help you parse the scene description (.cli) files.
+
 import java.util.*;
 public class Color{
   float r;
